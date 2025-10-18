@@ -1,0 +1,8 @@
+print("Value before Swapping:")
+value1=int(input("\n""Enter a Value1:"))
+value2=int(input("Enter a Value2:"))
+value3=int(input("Enter a Value3:"))
+print("\n""Values after Swapping:")
+print("\n""Value1 = %d "%(value2))
+print("Value2 = %d"%(value3))
+print("Value3 = %d"%(value1))
